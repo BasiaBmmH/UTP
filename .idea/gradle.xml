@@ -12,10 +12,26 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/UTP2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/UTP2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/UTP2_MB_S24660" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/UTP2_MB_S24660" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/UTP2_MB_S24660/UTP2_MB" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/UTP2_MB_S24660/UTP2_MB" />
           </set>
         </option>
       </GradleProjectSettings>

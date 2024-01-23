@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/UTP2" />
     <file type="web" url="file://$PROJECT_DIR$/UTP2_MB_S24660" />
     <file type="web" url="file://$PROJECT_DIR$/UTP3_MB_S24660" />
     <file type="web" url="file://$PROJECT_DIR$/UTP4_MB_S24660" />
