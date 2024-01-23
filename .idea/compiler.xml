@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
       <module name="UTP2_MB" target="17" />
+      <module name="UTP2_MB_S24660" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

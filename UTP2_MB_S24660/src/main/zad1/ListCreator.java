@@ -10,7 +10,6 @@ import java.util.function.Predicate;
 import java.util.function.Function;
 
 class ListCreator<T> {
-
     private List<T> list;
 
     private ListCreator(List<T> list) {

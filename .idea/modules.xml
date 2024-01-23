@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/UTP.iml" filepath="$PROJECT_DIR$/.idea/UTP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UTP2_MB_S24660/UTP2_MB_S24660.iml" filepath="$PROJECT_DIR$/UTP2_MB_S24660/UTP2_MB_S24660.iml" />
       <module fileurl="file://$PROJECT_DIR$/UTP6_MB_S24660/UTP6_MB_S24660.iml" filepath="$PROJECT_DIR$/UTP6_MB_S24660/UTP6_MB_S24660.iml" />
     </modules>
   </component>
